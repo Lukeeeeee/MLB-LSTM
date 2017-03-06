@@ -93,6 +93,8 @@ ENV/
 # LSTM data
 .origin
 .lstm
+data/
+tmp/
 
 
 # Tensorboard 
